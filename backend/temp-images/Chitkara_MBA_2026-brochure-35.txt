@@ -1,0 +1,53 @@
+At Chitkara Business School, what sets our MBA apart is the integrated Minor in Artificial Intelligence
+
+in Business, offered across all specialisations. This pioneering five-course, 10-credit minor empowers
+students with cutting-edge skills in Al, machine learning, generative tools and automation. With practical
+exposure to platforms like ChatGPT, Copilot and intelligent agents, our students gain the ability to drive
+innovation, streamline processes and make data-backed decisions—preparing them to lead in an
+Al-powered business landscape.
+
+In today’s data-driven economy, the ability to harness Artificial Intelligence is no longer optional — it’s essential.
+The Minor in Artificial Intelligence in Business equips MBA students with practical expertise in Al, automation
+and generative tools. This minor enables MBA students to complement their domain expertise in areas like
+marketing, finance, HR or supply chain with Al competencies that are transforming business practices worldwide,
+which in turn, enhances their career prospects in a technology-driven world,
+
+From enhancing customer insights to automating workflows, graduates will be equipped to add strategic value
+in any role. You will also learn to interpret data more intelligently and make faster, more informed decisions
+across business functions. The minor, thus, promotes a mindset of continuous innovation, adaptability and
+digital leadership.
+
+Beyond foundational Al and Machine Learning concepts, the curriculum dives into the use of generative
+
+Al tools, intelligent agents and ethical Al frameworks. With direct exposure to tools such as ChatGPT, Copilot
+and RAG-based systems, students gain practical skills to solve real-world business challenges. This minor
+gives our graduates a competitive edge in the job market and prepares them to lead innovation in any
+organisation they join.
+
+Some of the courses you will cover in Al Minor are
+
+Course 1: Introduction to Artificial Intelligence Course 3: Al Agents and Automation
+and Machine Learning e Learn about Al Agents with examples of
+e Learn what Al is and how it’s transforming their uses
+industries today e Learn how to automate repetitive tasks
+e Explore supervised, unsupervised and e Understand how to build Al-powered workflows
+reinforcement learning, along with essential e Gain practical experience in setting up and
+data processing techniques managing Al-driven workflows
+e Explore how neural networks and datasets
+work together to create smarter Al systems Course 4: Applications of Al in Business
+e Explore advanced architectures and how they e Harness Al tools for innovation and efficiencies
+can solve complex tasks e Understand how to leverage Al for enhanced
+customer insights
+Course 2: Generative Al e Learn how to optimise and streamline
+e Learn core principles and widely available processes across business functions
+models like GPT, Gemini and more e Explore how to transform product and
+e Dive into advanced concepts like prompt service delivery
+engineering, Retrieval-Augmented Generation
+(RAG) and dense embedding Course 5: Al Ethics and Future Trends
+e Gain practical experience using leading tools e Understand ethical considerations in Al
+such as ChatGPT, Copilot and DALL-E e Gain insights into the safeguards and emerging
+e Explore how to leverage Generative Al trends that will shape the future of Al
+
+for innovation
+
+35 | Chitkara University
