@@ -1,0 +1,58 @@
+4-Year B.E. Computer Science Program
+
+with specialisation in
+
+DATA SCIENCE & ANALYTICS
+
+Our 4-Year B.E. Computer Science program with a specialisation in Data Science & Analytics is designed to meet the
+surging demand for professionals with advanced analytical and technical expertise. Today, industries across finance,
+healthcare, retail, manufacturing and energy rely heavily on data science to extract actionable insights from vast,
+complex data sets. Our program equips students to uncover business opportunities, optimise operations, enhance
+customer experiences and drive strategic decisions that deliver competitive advantage and profitability.
+
+Data Scientists need expertise in the three core areas: Computer Science, Mathematics and Information Management.
+They also need good critical thinking and effective communication skills. Our inter-disciplinary Engineering curriculum
+emphasises the core areas of Data Science, including courses in Programming, Math, Statistical Modelling, Machine
+Learning and Data Management. Students learn all the aspects of the Data Science process from data collection and
+data understanding to model building and model validation and develop communication and critical thinking skills
+through real world applications.
+
+The specialisation in Data Analytics equips students with the skills to draw out intelligent analysis of data, which is
+
+a crucial component in numerous business applications and supporting business decisions. The program is designed
+to cater to the ever-changing needs and demands of the industry. Data Analysis experts are among the most
+sought-after professionals in IT sector with demand for skilled technocrats in that field outpacing other IT jobs by a
+wide margin.
+
+SOME IMPORTANT COMPONENTS COVERED IN THIS PROGRAM ARE:
+
+e@ Data Science principles, tools, and techniques to solve “real world” business problems and suggest suitable
+solution with relevant findings.
+
+@ Recognise issues in everyday business; apply Data Science for better understanding of data-driven management
+decisions to help get an edge over competition.
+
+e Provide insights into leading analytic practices, design and lead iterative learning and development cycles.
+
+@ Produce new and creative analytic solutions, which can become a part of any business core deliverables.
+
+@ Get insights on how to improve business results by building data-fuelled products.
+
+SOME IMPORTANT SKILL SETS TAUGHT IN THIS SPECIALISATION:
+Predictive Analytics | Data Analysis & Management | Data Visualisation | Business Intelligence | SAS Programming
+Programming tools like R, Python
+
+CAREER OPTIONS
+According to NASSCOM, the Data Analytics market will reach $30 billion by the year 2030, growing eightfold from its
+market worth in 2016. India alone will require over 500,000 Data Scientists, as per various industry insights.
+
+TYPES OF ORGANISATIONS LOOKING FOR DATA ANALYSTS:
+
+e@ Big IT companies who have an Analytics Practice-Infosys, TCS, Cognizant, Wipro, Oracle
+e@ Analytics KPOs-Genpact, WNS, Evalueserve, HSBC, EXL
+
+@ = In-house Analytics Units of large corporates-Citibank, Dell, HP, Soencers, Sears
+
+@ Core Analytics firms-Brainmatics, Fractal Analytics, Mu Sigma
+
+CHITKARA ENGINEERING | 71

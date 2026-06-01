@@ -1,0 +1,48 @@
+Specialisation in
+Electronics & Communication Engineering
+
+EMBEDDED SYSTEMS &
+INTERNET OF THINGS (IoT)
+
+Internet of Things (loT) is revolutionising industries by connecting devices, systems, and people in ways that were
+unimaginable just a few years ago. With rapid advancements in smart devices, data analytics, and Al-driven solutions,
+loT has become the cornerstone of digital transformation across sectors like healthcare, manufacturing, smart cities,
+and home automation.
+
+With this specialisation you will learn the importance of loT in the society, the current components of typical loT
+devices and trends for the future. Important components and skills taught in this program include:
+
+loT design considerations, constraints and interfacing between the physical world and your device will be covered.
+Make design trade-offs between hardware and software.
+
+Cover key components of networking to ensure that you understand how to connect your device to the Internet.
+Study how various trends have enabled the Internet of Things and how it changes the way design is performed.
+Participate in open house interactions to discuss some of the ramifications that loT has on the society today.
+
+CAREER OPTIONS
+
+The Internet of Things (loT) specialisation opens a diverse range of career paths by equipping graduates with
+
+the skills to develop, deploy and manage interconnected smart systems. As industries increasingly embrace loT to
+enhance automation, data-driven decision-making and real-time communication, there is a growing demand for
+professionals who understand both hardware and software aspects of loT technologies. This skill set enables graduates
+to contribute to innovative solutions across sectors such as healthcare, manufacturing and smart infrastructure.
+
+Potential Roles in loT include:
+
+loT Solution Architect
+loT System Administrator
+loT Product Manager
+
+loT Network Engineer
+Smart Systems Designer
+
+loT Developer
+
+loT Consultant
+
+Industrial loT Data Scientist
+
+loT Embedded Systems Engineer
+loT Program Manager
+

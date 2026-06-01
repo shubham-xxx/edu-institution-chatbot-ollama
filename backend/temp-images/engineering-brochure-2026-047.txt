@@ -1,0 +1,61 @@
+Program Framework at Chitkara University
+Year 1& Year 2
+
+Some of the courses you will cover in the first 2 years of B.E. in Computer Science & Technology are:
+
+e Principles of Programming Java e Digital Design Fundamentals
+
+e Object-Oriented Programming & Data Structure e Computer Organisation & Assembly Language
+e Calculus for Engineers Programming
+
+e Discrete Mathematical Structures e Data Structure & Algorithms
+
+Program Framework at Arizona State University
+Year 3 & Year 4
+
+Some of the courses you will cover are:
+
+e Computing Ethics e Principles of Programming Languages
+e |ntroduction to Theoretical Computer Science e Database Management
+
+e Introduction to Software Engineering e Computer Networks
+
+e Information Assurance e Distributed Software Development
+
+e Probability and Statistics e Applied Linear Algebra
+
+e Operating Systems
+In the 3rd and 4th years, students will have 3 tracks to choose from:
+They can opt to pursue:
+
+e BS in Computer Science without specialisation
+Or they may choose from one of the two concentrations: Software Engineering or Cybersecurity.
+
+e Bachelor of Science (BS) in Computer Science with a concentration in Software Engineering
+Students enrolled in the BS in Computer Science with a concentration in Software Engineering will delve
+into the development of distributed software, service-oriented applications, modeling notations, software
+architectures and other tools and skills necessary to work as a software engineer or software task leader
+on both large and small projects. This specialisation provides a robust foundation for advanced studies and
+engaging in research and development in emerging domains like model-based design, enterprise software
+engineering, service-oriented architecture, simulation-based software development, and visual modeling
+system-of-systems engineering.
+Some of the courses covered are:
+Distributed Software Development | Software Analysis and Design | Software Integration and Engineering
+Software Quality Assurance and Testing
+
+Bachelor of Science (BS) in Computer Science with a concentration in Cybersecurity
+
+The goal of this concentration is to equip students with comprehensive knowledge, skills, and advanced
+development capabilities in science and engineering specific to cybersecurity. This includes expertise in
+computer and network security, software security, data and information security, applied cryptography, and
+computer forensics. Graduates of this specialisation not only possess a competitive advantage for advanced
+studies or employment but also demonstrate a commitment to ethical cybersecurity practices and effective
+risk mitigation strategies in the ever-evolving landscape of digital security.
+
+Some of the courses covered are:
+
+Information Assurance | Computer Systems Security | Computer Network Security
+
+Computer and Network Forensics | Artificial Intelligence for Cybersecurity
+
+CHITKARA ENGINEERING | 47

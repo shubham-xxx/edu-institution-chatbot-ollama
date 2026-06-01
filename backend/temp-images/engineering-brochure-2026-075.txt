@@ -1,0 +1,64 @@
+4-Year B.E. Computer Science Program
+
+with specialisation in
+
+CYBER SECURITY
+
+In an era of unprecedented digital transformation, Cybersecurity has become a critical field that safeguards sensitive
+information, systems, and networks from threats. As the backbone of digital forensic science, Cybersecurity focuses
+on identifying, preventing, and responding to cyberattacks while ensuring the integrity
+
+and confidentiality of data.
+
+Chitkara University's B.E. in Computer Science Engineering with a specialisation in Cybersecurity empowers
+students to combat cybercrime through an industry-aligned curriculum blending theoretical knowledge with
+hands-on skills. This program equips future professionals with cutting-edge techniques to address modern
+Cybersecurity challenges across sectors like banking, healthcare, e-commerce, and government operations.
+
+By integrating core computer science with advanced modules in network security, ethical hacking, and digital
+forensics, the program prepares students to secure the rapidly evolving digital landscape. Graduates emerge as
+competent, innovative, and resourceful professionals ready to tackle complex security challenges head-on.
+
+PROGRAM OVERVIEW
+
+This pioneering program develops expertise in Cybersecurity technologies, practices, and strategies. Students gain
+a critical understanding of cyberattack patterns and how to counter them using advanced tools and techniques.
+Hands-on learning, industry partnerships, and exposure to real-world case studies equip graduates to create secure
+systems and safeguard digital environments. The program fosters analytical thinking, problem-solving, and
+creativity, enabling students to excel in a competitive global landscape. Through interdisciplinary learning and
+innovative teaching methods, students are empowered to address emerging Cybersecurity challenges while
+contributing to a safer digital future.
+
+PROGRAM HIGHLIGHTS
+
+@ Robust Curriculum: Learn core computer science fundamentals alongside specialised courses in network
+security, cryptography, and ethical hacking.
+
+@ Hands-on Training: Work on live projects and simulated cyberattacks, gaining practical expertise in threat
+analysis and mitigation.
+
+@ State-of-the-Art Labs: Access modern Cybersecurity labs with cutting-edge tools to develop skills in
+penetration testing and digital forensics.
+
+@ Industry Engagement: Collaborate with leading organisations through internships and workshops for
+professional insights.
+
+@ Expert Mentorship: Receive guidance from industry professionals and academic experts, building a strong
+foundation for a successful career.
+
+SKILLS TAUGHT
+
+The program equips students with capabilities in:
+
+Network Security | Ethical Hacking | Digital Forensics | Malware Analysis | Risk Assessment | Cryptography
+Incident Response
+
+CAREER OPTIONS
+
+With India’s digital economy expanding, demand for Cybersecurity professionals is projected to exceed 3 million in
+the near future. Graduates can explore diverse roles such as:
+
+Cybersecurity Specialist | Security Architect | Cyber Operations Analyst | Malware Analyst | System Administrator
+Security Software Developer | Incident Response Engineer | Forensic Expert
+
+CHITKARA ENGINEERING | 75

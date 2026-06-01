@@ -6,6 +6,7 @@ const connectDB = require("./config/db");
 const chatRoutes = require("./routes/chatRoutes");
 const leadRoutes = require("./routes/leadRoutes");
 const ragRoutes = require("./routes/ragRoutes");
+const documentRoutes = require("./routes/documentRoutes");
 
 const app = express();
 
@@ -18,6 +19,7 @@ app.use(express.json());
 app.use("/api/chat", chatRoutes);
 app.use("/api/leads", leadRoutes);
 app.use("/api/rag", ragRoutes);
+app.use("/api/documents", documentRoutes);
 
 app.get("/", (req, res) => {
   res.send("Ollama Educational Institution Chatbot Backend is running.");

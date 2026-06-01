@@ -77,37 +77,45 @@ const retrieveRelevantChunks = async (question, topK = 4) => {
 const askRAG = async (question) => {
   const relevantChunks = await retrieveRelevantChunks(question, 4);
 
-  const context = relevantChunks
-    .map((chunk, index) => {
-      return `
-Source ${index + 1}: ${chunk.source}, Chunk ${chunk.chunkIndex}
-Relevance Score: ${chunk.score}
-Content:
+  
+const context = relevantChunks
+  .map((chunk) => {
+    return `
+Document: ${chunk.source}
+Relevant Content:
 ${chunk.text}
 `;
-    })
-    .join("\n----------------------\n");
+  })
+  .join("\n\n---\n\n");
+
 
   const systemPrompt = `
-You are a professional educational institution chatbot.
+You are a professional educational institution assistant.
 
-You must answer the user's question using ONLY the provided document context.
+Your task is to answer the user's question using ONLY the provided document context.
 
-Rules:
-- Use only the provided context.
-- If the answer is not present in the context, say: "I could not find this information in the uploaded documents."
-- Do not invent fees, eligibility, dates, policies, placements, or contact details.
-- Keep the answer clear, concise, and student-friendly.
-- If useful, answer in bullet points.
-- Mention that the answer is based on uploaded documents.
+Important response rules:
+- Do NOT mention chunk numbers, source numbers, relevance scores, embeddings, vector search, or internal retrieval details.
+- Do NOT say phrases like "In Chunk 57" or "Source 1 says".
+- Write the answer as a polished student-facing response.
+- If the context contains relevant information, summarize it clearly.
+- If the context does not contain enough information, say: "I could not find enough verified information about this in the uploaded documents."
+- Do not invent fees, eligibility, dates, rankings, policies, placements, or contact details.
+- Keep the answer concise, professional, and easy to understand.
+- Use bullet points when listing courses, specialisations, features, or steps.
+- Mention "Based on the uploaded documents" only once at the beginning if needed.
 `;
 
   const userPrompt = `
-Document Context:
+Use the following uploaded document excerpts to answer the question.
+
+Uploaded Document Excerpts:
 ${context}
 
-User Question:
+Question:
 ${question}
+
+Write a professional, student-facing answer.
 `;
 
   const response = await axios.post(OLLAMA_CHAT_URL, {

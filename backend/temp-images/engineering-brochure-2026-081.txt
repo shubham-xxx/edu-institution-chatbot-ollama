@@ -1,0 +1,29 @@
+Specialisation in
+Electronics & Communication Engineering
+VLSI DESIGN
+
+The VLSI discipline is for design and verification of electronics systems and circuits. Its applications are found in areas
+like signal processing, image processing, networks and communication applications.
+
+The Electronics & Communication Engineering program with specialisation in VLSI design aims to provide students
+with comprehensive knowledge of VLS! Circuits and systems which is core to the electronics chip manufacturing
+industry. The program emphasises the key aspects of hardware design and development for VLSI applications. Prime
+focus is laid on areas like VLSI system design, ASIC design, FPGA-based systems design, RF circuit design and SOC
+based design and verification.
+
+The main objectives of the program are to analyse the electrical and design characteristics of transistors and
+gates to study the issues and methodologies involved in the integration of these devices into complex high
+performance systems.
+
+CAREER OPTIONS
+
+With recent and rapid upsurge in areas like hardware, software co-design, architectures for machine intelligence,
+network on chip, etc., the program is designed to cater to the needs in producing Engineers trained, in both,
+hardware and software. Apart from a bright scope to pursue higher education and research, students can pursue
+career opportunities in diverse fields such as Process Industry, Manufacturing Industry, Consumer Electronics,
+Communication Networks and Automation Industries.
+
+Students can find excellent placements in leading core companies like IBM, Texas Instruments, NXP, Wipro, GE,
+Motorola, Honeywell, Tata Elxsi, RBEI, TATA, DELPHI, etc.
+
+CHITKARA ENGINEERING | 81

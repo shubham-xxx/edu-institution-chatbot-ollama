@@ -1,0 +1,58 @@
+4-Year B.E. Computer Science Program
+
+with specialisation in
+
+CLOUD COMPUTING
+& VIRTUALISATION TECHNOLOGY
+
+in academic collaboration with
+
+aWws
+SF
+
+Chitkara University has designed the curriculum under the guidance of AWS Educate, ensuring a strong focus on
+Cloud Computing and industry alignment from Year 1. This approach equips students with the skills and knowledge
+needed to build successful careers in the growing fields of Cloud Computing and Virtualisation.
+
+The proposed specialisation will prepare students to understand the emerging technologies of Cloud Computing
+& Virtualisation, their principles, modeling, analysis, design, deployment and industry-oriented applications. All major
+solution architectures and enabling technologies will be covered under this program.
+
+The curriculum lays focus on introduction to Cloud Computing and its techniques, issues and services that lead to
+design and development of a simple Cloud Service along with basic fundamentals. Also there would be focus on
+security, standards and applications in Cloud, including Cloud Security challenges, software as a service security and
+its common standards.
+
+This program has been designed keeping the below points in consideration:
+
+Technology Skills: Apply current technical tools and methodologies to create cloud solutions.
+
+System Specifications: Design secure cloud information systems.
+
+Technology Analysis: Evaluate cloud computing trends, practices, and products.
+
+Cloud Analysis: Evaluate the potential impact of cloud-based information systems on business processes.
+Project Management: Apply project management practices, tools, and methods to cloud solutions.
+Professional Development: Recognise the ethical considerations for IT professionals locally and globally.
+
+COLLABORATION WITH AWS EDUCATE
+Chitkara University has collaborated with AWS Educate so that our students can access AWS Certifications and start
+their career in Cloud Computing & Virtualisation. Some of the topics covered under these certifications are:
+e= = Align curriculum with the cloud computing skills and competencies that employers seek in working professionals.
+e@ = Train faculty through professional development sessions in cloud concepts.
+e Provide students with resources and training to understand and set goals towards a career path in
+cloud computing.
+@ Engage employers with academic institutions to build a pipeline into in-demand cloud career opportunities.
+
+CAREER OPTIONS
+
+All graduating Engineers with specialisation in Cloud Computing & Virtualisation find excellent placements in
+companies that require specific development skills towards working with Amazon Web Services (AWS), Microsoft
+Azure or Google Cloud Platform.
+
+Some of the potential roles include:
+
+e@ Cloud Solution Architects e@ Cloud System Administrator
+@ Cloud Security Specialist @ Cloud Application Development
+
+CHITKARA ENGINEERING | 69

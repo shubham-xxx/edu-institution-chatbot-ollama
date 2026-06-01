@@ -1,0 +1,46 @@
+4-Year Bachelor of Engineering
+
+CIVIL ENGINEERING
+
+with specialisation in Artificial Intelligence & Machine Learning
+in academic collaboration with
+
+L&T
+Edulech
+
+At Chitkara University, our B.E. in Civil Engineering with a specialisation in Al & ML equips students with the expertise
+to supervise, design, and manage cutting-edge infrastructure projects while harnessing the transformative power of
+Artificial Intelligence. Graduates are prepared for roles like construction managers, design consultants and project
+engineers, backed by a curriculum that integrates traditional civil engineering principles with the latest Al-driven
+advancements. Students gain hands-on experience with state-of-the-art tools and technologies, ensuring they are
+adept at managing large-scale projects efficiently, aligning with schedules and specifications.
+
+PROGRAM OVERVIEW
+
+The program blends foundational Civil Engineering knowledge with specialised Al & ML applications. Students master
+Al tools like TensorFlow and OpenCV and programming languages such as Python and MATLAB while exploring key
+areas like design optimisation, risk control, and construction management. The curriculum emphasises Building
+Information Modelling (BIM), including Revit Architecture and Structure, BIM Management, and integration with
+Virtual Reality. Real-time projects provide a comprehensive learning environment, ensuring students are job-ready.
+
+PROGRAM STRUCTURE
+
+Chitkara University’s Civil Engineering program, in partnership with L&T EduTech, focuses on modern construction
+materials, advanced techniques, and Al-powered management practices. Students develop skills to design structures,
+optimise processes, and manage projects effectively. Structural engineering courses cover the design of buildings and
+bridges, considering factors like wind, earthquakes, and loads.
+
+KEY COURSES INCLUDE:
+
+Fundamentals of Science, Mathematics, Engineering Graphics, and Computing techniques.
+
+Principles of solid, fluid, and soil mechanics.
+
+Transportation and Environmental Engineering.
+
+Advanced design and analysis of steel and concrete structures.
+
+Special electives like Modern Structural Materials, Construction Management, Safety, and Quality Control.
+Capstone projects in Al-driven construction and management.
+
+CHITKARA ENGINEERING | 97

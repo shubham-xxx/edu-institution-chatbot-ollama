@@ -1,0 +1,25 @@
+35-YEAR BCA
+
+Bachelor of Computer Applications
+
+This Program is offered at both Punjab and Himachal Pradesh campuses
+
+The Bachelor of Computer Applications (BCA) is a three-year undergraduate program designed for students
+aspiring to build a career in the field of information technology and computer applications. It provides a
+comprehensive understanding of computer science fundamentals, programming, and software development,
+making it a popular choice among tech enthusiasts.
+
+The program focuses on teaching essential programming languages like C, C++, Java, Python, and web
+development technologies such as HTML, CSS, and JavaScript. It also covers advanced topics, including data
+structures, algorithms, database management systems (DBMS), computer networks, operating systems, and
+software engineering. Many universities integrate emerging technologies like artificial intelligence, machine
+learning, cloud computing, and cybersecurity into the curriculum to keep pace with industry trends.
+
+BCA emphasises both theoretical knowledge and practical skills. Students undertake hands-on projects,
+practical labs, and internships to gain industry exposure and apply their learning in real-world scenarios.
+Mathematics and analytical subjects like discrete mathematics and statistics are also included to strengthen
+problem-solving skills.
+
+Graduates of the BCA program are well-equipped for roles such as software developer, web developer,
+database administrator, system analyst, and IT support specialist. The degree also serves as a stepping stone
+for higher studies like Master of Computer Applications (MCA) or certifications in specialised IT domains.

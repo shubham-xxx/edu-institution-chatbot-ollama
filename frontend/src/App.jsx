@@ -1,11 +1,13 @@
 import Chatbot from "./components/Chatbot";
 import RagChat from "./components/RagChat";
+import PdfUpload from "./components/PdfUpload";
 
 function App() {
   return (
     <div style={styles.page}>
       <Chatbot />
       <RagChat />
+      <PdfUpload />
     </div>
   );
 }

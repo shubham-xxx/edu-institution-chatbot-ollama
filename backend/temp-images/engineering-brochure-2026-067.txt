@@ -1,0 +1,62 @@
+4-Year B.E. Computer Science Program
+
+with specialisation in
+
+FULL STACK DEVELOPMENT
+
+Our specialisation in Full Stack Engineering is designed for students aiming to begin their careers in the IT industry
+by mastering a full stack of multiple technologies. The program builds the ability to architect high-impact solutions,
+envision and design innovative products, solve complex problems and work effectively across cross-functional teams.
+It develops strong skills in high-demand areas such as SDLC, application development for web, mobile and cloud
+
+and DevOps.
+
+SOME IMPORTANT COMPONENTS OF THIS COURSE WILL BE
+
+e Overview of Full Stack Engineering
+Overview of the modern application landscape; Typical structure of an end-to-end application: components and
+connections; Design considerations and implementation choices; Case study for each of the topics discussed.
+
+e@ Web Development
+Components of front-end web application development: User interfaces, rendering, Document Object Model
+Event and State handling; Languages/tools such as HTML, CSS, JavaScript, AJAX; Web Apps Development
+frameworks; Components of back-end web development: Web Server essentials; Server Side scripting; REST
+architecture; Database interactions; Integration with code repositories.
+
+@ Mobile Application Development
+Mobile application building blocks such as the screens (UI), background services; Communication between
+the application components; Application development using native multi-platform development; Interaction
+of applications with Internet resources, REST APIs, databases; Unit testing of applications; Integration with
+code repositories.
+
+e@ Cloud Native Development
+Basics of cloud computing; Different types of services; Virtual machines vs Containers deployment;
+Characteristics of cloud native application; Elements to build cloud-native applications; Cloud native architecture
+and micro-services; Design, decomposition of applications to micro-services; Developing micro-services;
+Interactions with data services and databases.
+
+e Agile and DevOps
+Overview of Agile methodology: Scrum, Test driven development, DevOps, Continuous Integration/Continuous
+Delivery (CI/CD); Code repository: Multi-user, distributed development, version control; Continuous inspection of
+code quality; Build and build tools; Automated Testing; Integration tools; Implementing CI/CD.
+
+@ Deployment of Micro-services 2
+Containerising applications by creating container configuration files and build processes; Manage deploying,
+scaling, and updating applications with micro-services using container management platforms such as
+Kubernetes; Configure and launch auto-scaling, self-healing clusters; Best practices for container management,
+when architecting and developing new microservices.
+
+@ Capstone Project
+Full stack applications demonstrating the UI, server and database components of an end-to-end multi-user
+application; Usage of one or more well-known development frameworks; Demonstration of scalability and
+reusability by applying design concepts such as microservices and container-based deployment on the cloud;
+Demonstration of compliance with principles of agile and CI/CD.
+
+CAREER OPTIONS
+
+Full Stack Developers design complete apps and websites. They work on all facets of development from front-end
+to back-end, database, debugging and testing. Full Stack Developers are more sought after because of their
+expertise in multiple technologies. They can handle all aspects of development and it can result in a more seamlessly
+created product.
+
+CHITKARA ENGINEERING | 67

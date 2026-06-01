@@ -1,0 +1,39 @@
+PROGRAM STRUCTURE
+
+e@ Core BCA Curriculum: Master essential topics such as programming (C++, Python, Java), database management,
+software engineering, and data structures.
+
+e@ Al &Machine Learning Specialisation: Learn the foundations of Al, machine learning algorithms, deep learning,
+and how to apply these technologies to various industries like healthcare, finance, and autonomous systems.
+
+e Data Science & Analytics: Gain skills in data analysis, pattern recognition, and predictive modelling, with a focus
+on using large datasets to train machine learning algorithms.
+
+e@ Capstone Projects: Apply your skills to real-world problems by working on Al and ML projects in collaboration
+with industry partners, preparing you for a smooth transition into the workforce.
+
+e@  Industry-Ready Tools: Get hands-on experience with the latest Al and ML tools such as TensorFlow, Keras, and
+Python libraries, as well as cloud-based platforms for Al development.
+
+CAREER OPPORTUNITIES
+
+Graduates are well-prepared for roles in Al and ML, with opportunities in sectors such as healthcare, finance,
+technology, and retail. Possible career paths include:
+
+Al Engineer | Machine Learning Engineer | Data Scientist | Software Developer | Cloud Solutions Architect
+Automation Specialist | Database Administrator | Cybersecurity Analyst | Systems Administrator
+
+CAMPUS RECRUITERS FOR BCA & MCA GRADUATES
+Some of the major companies that visited Chitkara University and hired our graduates:
+
+Capgenwni@® | &>cognizant Deloitte.
+
+HCE |G Infosys Meer | NIT
+
+ap
+4} TATA an Tech
+Panasonic CONSULTANCY SERVICES Mahindra
+
+WNS
+
+CHITKARA ENGINEERING | 105

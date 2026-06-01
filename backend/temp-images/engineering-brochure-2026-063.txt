@@ -1,0 +1,63 @@
+4-Year B.E. Computer Science Program
+
+with specialisation in
+
+ARTIFICIAL INTELLIGENCE
+& MACHINE LEARNING
+
+in academic collaboration with
+
+a= Microsoft
+
+B.E. in Computer Science Engineering with a Specialisation in Artificial Intelligence (Al) and Machine Learning (ML)
+
+is an advanced, industry-driven program designed to equip students with the knowledge, skills, and practical
+experience necessary to excel in the world of Al and ML. Offered in collaboration with Microsoft, this program
+combines the academic rigour of Computer Science Engineering with the latest developments in Al and ML, delivered
+using cutting-edge tools, platforms, and insights from one of the world’s leading technology companies.
+
+PROGRAM HIGHLIGHTS
+
+e@ Industry Collaboration with Microsoft:
+Students gain access to world-class tools and resources, including Microsoft Azure’s cloud platform, Azure
+Machine Learning, and Microsoft’s Al development ecosystem, ensuring hands-on experience with
+industry-standard platforms.
+
+@ Comprehensive Curriculum:
+The program covers foundational computer science principles and advanced Al & ML topics, including:
+Core Concepts:
+Data Structures, Algorithms, Programming (Python, Java, C++), Computer Networks, OS, DBMS, Cloud Computing,
+and Cybersecurity.
+Al & ML Topics:
+Machine Learning (Supervised, Unsupervised, Reinforcement Learning), Deep Learning (CNN, RNN, GANs), NLP
+(Speech Recognition, Sentiment Analysis), Al in Robotics, Big Data Analytics, and Al Ethics.
+
+@ Hands-on Training with Microsoft Technologies:
+Students work directly with tools like Azure Al, Microsoft Cognitive Services, and Azure Databricks, gaining
+practical expertise in building, deploying, and scaling Al solutions.
+
+e@ Real-world Projects & Internships:
+Engage in industry-relevant projects and internships with Microsoft and other top tech companies, applying
+knowledge to solve real-world problems in sectors like healthcare, finance, and entertainment.
+
+@ Microsoft Certification:
+Earn certifications in Al and Cloud Technologies, showcasing expertise and enhancing employability.
+
+e@ Research and Innovation:
+Explore cutting-edge topics through access to Microsoft’s research ecosystem, collaborate on projects,
+and contribute to next-gen Al solutions.
+
+e@ Industry-Ready Graduates:
+The program equips graduates with theoretical knowledge, practical skills, and industry experience for careers
+as Al Engineers, Data Scientists, Cloud Architects, and more.
+
+CAREER OPTIONS
+Graduates of the B.E. in Computer Science Engineering with Specialisation in Al and ML will be uniquely positioned
+to lead the Al revolution across multiple industries.
+
+POTENTIAL CAREER PATHS INCLUDE:
+
+Al and ML Engineers | Data Scientists and Data Analysts | Cloud Computing Specialists | Robotics Engineers
+Software Engineers specialising in Al and ML | Al Consultants in enterprise solutions.
+
+CHITKARA ENGINEERING | 63

@@ -1,0 +1,60 @@
+4-Year B.E. Computer Science Program
+
+with specialisation in
+
+IOS STUDENT DEVELOPER PROGRAM
+POWERED BY APPLE & INFOSYS
+
+Chitkara University has established an iOS Development Centre in collaboration with Apple and Infosys, providing
+students with unparalleled access to industry-standard tools and technologies. The centre offers a platform for
+students to develop expertise in app development, focusing on building applications within Apple’s ecosystem.
+This partnership strengthens the program's commitment to ensuring that students gain the necessary skills to
+succeed in the competitive app economy.
+
+The iOS Student Developer Program focuses on experiential learning, offering students practical experience in
+app development. Beginning with foundational topics like Swift and UIKit, students build a strong technical base
+in programming and user interface design. The program emphasises real-world problem-solving, where students
+work on projects that address challenges such as accessibility, social connectivity, and sustainability. By combining
+technical expertise with design thinking and a focus on emerging industry trends, the program ensures students
+graduate with the ability to create innovative, user-friendly, and impactful applications.
+
+KEY COMPONENTS OF THE IOS STUDENT DEVELOPMENT PROGRAM
+
+e  Industry-Aligned Curriculum: Designed in collaboration with Apple, the curriculum immerses students in the
+complete product development journey, providing practical expertise and industry-relevant insights.
+
+e Swift Fundamentals & Ul Development: Master core Swift programming skills and create intuitive user interfaces
+with UIKit.
+
+e App Design and Prototyping: Gain proficiency in design tools such as Keynote and Figma to create engaging,
+user-focused prototypes.
+
+e = Integration with Apple Technologies: Work with iOS frameworks and Apple technologies, preparing students to
+develop complex applications.
+
+e@ Design Thinking & Problem-Solving: Learn to solve real-world problems with creative solutions, applying Apple’s
+design-thinking methodology.
+
+@ Team-Based App Development: Collaborate in teams to develop apps that tackle social, cultural, and
+community challenges.
+
+CAREER OPTIONS
+
+As the mobile app development market continues to expand, iOS developers are among the most sought-after
+professionals in the tech industry. The demand for iOS development skills soans multiple sectors, including healthcare,
+finance, retail, entertainment, and beyond. Graduates of our iOS Student Developer Program are well-equipped to
+pursue careers as iOS Developers, Mobile App Designers, and Software Engineers, often commanding starting salaries
+above the industry average due to the high demand for skilled professionals.
+
+In addition to gaining technical expertise in iOS application development, our graduates emerge with enhanced critical
+thinking skills, a solid technical foundation, and a deep understanding of mobile user experience. They are positioned
+to thrive in both startups and established tech companies, where mobile innovation drives success. Graduates also can
+advance into roles such as Lead iOS Developer, Technical Architect, or Mobile Engineering Manager, as they gain
+experience and leadership capabilities.
+
+The program prepares graduates for diverse roles in the app development lifecycle, from product management
+
+and user interface design to testing and deployment. As businesses continue to adopt mobile-first strategies,
+iOS developers are central to creating innovative, user-friendly applications that power tomorrow's tech.
+
+CHITKARA ENGINEERING | 73

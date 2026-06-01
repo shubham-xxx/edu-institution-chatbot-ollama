@@ -123,8 +123,10 @@ const styles = {
     marginTop: "18px",
     padding: "14px",
     borderRadius: "14px",
-    backgroundColor: "#f8fafc",
-    border: "1px solid #e2e8f0",
+    backgroundColor: "#ffffff",
+    border: "1px solid #dbeafe",
+    boxShadow: "0 4px 14px rgba(15, 23, 42, 0.06)",
+    textAlign: "left",
   },
   sourcesBox: {
     marginTop: "18px",
@@ -136,9 +138,12 @@ const styles = {
   },
   answer: {
     whiteSpace: "pre-wrap",
-    lineHeight: "1.5",
-    fontSize: "14px",
+    lineHeight: "1.7",
+    fontSize: "15px",
+    color: "#1f2937",
+    textAlign: "left",
   },
+  
   sourceItem: {
     padding: "12px",
     borderRadius: "12px",
